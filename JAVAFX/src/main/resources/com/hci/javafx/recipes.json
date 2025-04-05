@@ -1,0 +1,289 @@
+[
+      {
+        "name": "Simple Omelette",
+        "vegetarian": true,
+        "calories": 200,
+        "prep_time": "10",
+        "difficulty": "easy",
+        "ingredients": [
+          "eggs",
+          "Salt",
+          "Pepper",
+          "Butter"
+        ],
+        "steps": [
+          "Crack 2-3 eggs into a bowl and whisk well with a pinch of salt and pepper.",
+          "Heat a non-stick pan and add a small knob of butter.",
+          "Pour the eggs into the pan and let them set for a minute.",
+          "Fold the omelette in half once the bottom is cooked and serve immediately."
+        ],
+        "image_path": "/image/recipes/simple_omelette.jpg"
+      },
+      {
+        "name": "Pasta Primavera",
+        "vegetarian": true,
+        "calories": 400,
+        "prep_time": "25",
+        "difficulty": "easy",
+        "ingredients": [
+          "Pasta of choice",
+          "Bell peppers",
+          "Zucchini",
+          "Cherry tomatoes",
+          "Olive oil",
+          "Lemon juice",
+          "Salt",
+          "Pepper",
+          "Fresh basil"
+        ],
+        "steps": [
+          "Boil your favorite pasta according to the package instructions.",
+          "Sauté a mix of seasonal vegetables (like bell peppers, zucchini, and cherry tomatoes) in olive oil.",
+          "Toss the cooked pasta with the sautéed vegetables and a splash of lemon juice.",
+          "Season with salt, pepper, and fresh basil before serving."
+        ],
+        "image_path": "/image/recipes/pasta_primavera.jpg"
+      },
+      {
+        "name": "Grilled Chicken Salad",
+        "vegetarian": false,
+        "calories": 350,
+        "prep_time": "20",
+        "difficulty": "easy",
+        "ingredients": [
+          "Chicken breasts",
+          "Mixed greens",
+          "Cherry tomatoes",
+          "Cucumber",
+          "Red onions",
+          "Olive oil",
+          "Salt",
+          "Pepper",
+          "Dressing of choice"
+        ],
+        "steps": [
+          "Season chicken breasts with salt, pepper, and a drizzle of olive oil.",
+          "Grill the chicken until fully cooked and slice into strips.",
+          "Toss mixed greens, cherry tomatoes, cucumber, and red onions in a bowl.",
+          "Top the salad with the grilled chicken and drizzle with your favorite dressing."
+        ],
+        "image_path": "/image/recipes/grilled_chicken_salad.jpg"
+      },
+      {
+        "name": "Beef Wellington",
+        "vegetarian": false,
+        "calories": 600,
+        "prep_time": "90",
+        "difficulty": "hard",
+        "ingredients": [
+          "Beef tenderloin",
+          "Mushrooms",
+          "Puff pastry",
+          "Butter or oil for searing",
+          "Salt",
+          "Pepper"
+        ],
+        "steps": [
+          "Sear a beef tenderloin on all sides until browned.",
+          "Prepare a mushroom duxelles and spread it over the seared beef.",
+          "Wrap the beef in puff pastry, sealing the edges well.",
+          "Bake in a preheated oven until the pastry is golden and the beef is cooked to your liking.",
+          "Let rest briefly before slicing and serving."
+        ],
+        "image_path": "/image/recipes/beef_wellington.jpg"
+      },
+      {
+        "name": "Chocolate Cake",
+        "vegetarian": true,
+        "calories": 450,
+        "prep_time": "60",
+        "difficulty": "medium",
+        "ingredients": [
+          "Flour",
+          "Cocoa powder",
+          "Sugar",
+          "Eggs",
+          "Butter",
+          "Baking powder",
+          "Optional: Chocolate ganache for frosting"
+        ],
+        "steps": [
+          "Preheat the oven and prepare a cake pan by greasing it lightly.",
+          "Mix flour, cocoa powder, sugar, eggs, and butter until smooth.",
+          "Pour the batter into the pan and bake until a toothpick inserted in the center comes out clean.",
+          "Allow the cake to cool and optionally frost with chocolate ganache before serving."
+        ],
+        "image_path": "/image/recipes/chocolate_cake.jpg"
+      },
+      {
+        "name": "Vegetable Stir Fry",
+        "vegetarian": true,
+        "calories": 300,
+        "prep_time": "15",
+        "difficulty": "easy",
+        "ingredients": [
+          "Mixed vegetables (broccoli, carrots, bell peppers, snap peas)",
+          "Garlic",
+          "Ginger",
+          "Soy sauce",
+          "Sesame oil",
+          "Vegetable oil",
+          "Optional: tofu or tempeh"
+        ],
+        "steps": [
+          "Heat vegetable oil in a wok or large pan over high heat.",
+          "Add minced garlic and ginger, stir for 30 seconds until fragrant.",
+          "Add vegetables, starting with the ones that take longer to cook (like carrots and broccoli).",
+          "Stir-fry for 5-7 minutes until vegetables are crisp-tender.",
+          "Add soy sauce and a dash of sesame oil, toss to combine and serve hot."
+        ],
+        "image_path": "/image/recipes/vegetable_stir_fry.jpg"
+      },
+      {
+        "name": "Avocado Toast",
+        "vegetarian": true,
+        "calories": 250,
+        "prep_time": "5",
+        "difficulty": "easy",
+        "ingredients": [
+          "Whole grain bread",
+          "Ripe avocado",
+          "Salt",
+          "Red pepper flakes",
+          "Lemon juice",
+          "Optional: poached egg"
+        ],
+        "steps": [
+          "Toast the bread until golden and crispy.",
+          "Mash the ripe avocado with a fork and spread it on the toast.",
+          "Sprinkle with salt, red pepper flakes, and a squeeze of lemon juice.",
+          "For extra protein, top with a poached egg (optional)."
+        ],
+        "image_path": "/image/recipes/avocado_toast.jpg"
+      },
+      {
+        "name": "Beef Stroganoff",
+        "vegetarian": false,
+        "calories": 550,
+        "prep_time": "40",
+        "difficulty": "medium",
+        "ingredients": [
+          "Beef sirloin strips",
+          "Mushrooms",
+          "Onion",
+          "Garlic",
+          "Beef broth",
+          "Sour cream",
+          "Flour",
+          "Butter",
+          "Salt",
+          "Pepper",
+          "Egg noodles"
+        ],
+        "steps": [
+          "Sauté sliced mushrooms and diced onion in butter until soft.",
+          "Add beef strips and cook until browned on all sides.",
+          "Sprinkle with flour and stir, then add beef broth gradually.",
+          "Simmer until the sauce thickens, then stir in sour cream.",
+          "Serve over cooked egg noodles with a sprinkle of fresh parsley."
+        ],
+        "image_path": "/image/recipes/beef_stroganoff.jpg"
+      },
+      {
+        "name": "Lemon Garlic Shrimp Pasta",
+        "vegetarian": false,
+        "calories": 450,
+        "prep_time": "25",
+        "difficulty": "medium",
+        "ingredients": [
+          "Shrimp (peeled and deveined)",
+          "Linguine or spaghetti",
+          "Garlic",
+          "Lemon (juice and zest)",
+          "Butter",
+          "Olive oil",
+          "Red pepper flakes",
+          "Parsley",
+          "Parmesan cheese",
+          "Salt",
+          "Pepper"
+        ],
+        "steps": [
+          "Cook pasta according to package instructions until al dente.",
+          "In a large pan, sauté minced garlic in olive oil and butter until fragrant.",
+          "Add shrimp and cook until pink, about 2-3 minutes per side.",
+          "Stir in lemon juice, lemon zest, and red pepper flakes.",
+          "Toss the cooked pasta with the shrimp mixture, adding some pasta water if needed.",
+          "Garnish with chopped parsley and grated Parmesan before serving."
+        ],
+        "image_path": "/image/recipes/lemon_garlic_shrimp_pasta.jpg"
+      },
+      {
+        "name": "Microwave Mac and Cheese",
+        "vegetarian": true,
+        "calories": 400,
+        "prep_time": "10",
+        "difficulty": "easy",
+        "ingredients": [
+          "small pasta",
+          "Water",
+          "Salt",
+          "Milk",
+          "Pre-shredded cheese (cheddar works great)",
+          "Butter (optional)"
+        ],
+        "steps": [
+          "Place 1 cup of pasta and 1 cup of water in a large microwave-safe bowl.",
+          "Microwave on high for 2-3 minutes, then stir and continue microwaving in 1-minute intervals until pasta is tender (about 4-5 minutes total).",
+          "Drain any excess water if necessary.",
+          "Stir in 1/4 cup milk, 1 cup shredded cheese, and a small pat of butter if using.",
+          "Microwave for another 30 seconds, stir until smooth, and enjoy!"
+        ],
+        "image_path": "/image/recipes/microwave_mac_cheese.jpg"
+      },
+      {
+        "name": "Ramen Noodle Upgrade",
+        "vegetarian": true,
+        "calories": 350,
+        "prep_time": "8",
+        "difficulty": "easy",
+        "ingredients": [
+          "Instant ramen package",
+          "Egg",
+          "Green onions",
+          "Frozen vegetables (peas, corn, carrots mix)",
+          "Hot sauce (optional)"
+        ],
+        "steps": [
+          "Boil water according to ramen package instructions.",
+          "Add the ramen noodles to the boiling water.",
+          "Add a handful of frozen vegetables to the pot.",
+          "When the noodles are almost done, crack an egg into the pot and stir gently.",
+          "Add the seasoning packet, chopped green onions, and a dash of hot sauce if desired.",
+          "Remove from heat and enjoy from the pot or transfer to a bowl."
+        ],
+        "image_path": "/image/recipes/ramen_upgrade.jpg"
+      },
+      {
+        "name": "Peanut Butter Banana Toast",
+        "vegetarian": true,
+        "calories": 300,
+        "prep_time": "5",
+        "difficulty": "easy",
+        "ingredients": [
+          "Bread",
+          "Peanut butter",
+          "Banana",
+          "Honey (optional)",
+          "Cinnamon (optional)"
+        ],
+        "steps": [
+          "Toast the bread to your preferred level of crispiness.",
+          "Spread a generous layer of peanut butter on the warm toast.",
+          "Slice a banana and arrange the slices on top of the peanut butter.",
+          "Drizzle with honey and sprinkle with cinnamon if desired.",
+          "For a quick breakfast or snack, you can fold it in half like a sandwich for eating on the go."
+        ],
+        "image_path": "/image/recipes/pb_banana_toast.jpg"
+      }
+]
