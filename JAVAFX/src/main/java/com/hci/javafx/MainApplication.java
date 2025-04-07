@@ -1,6 +1,7 @@
 package com.hci.javafx;
 
 import com.hci.javafx.recipe.Recipe;
+import com.hci.javafx.ui.LoginPage;
 import com.hci.javafx.ui.MainPage;
 import com.hci.javafx.ui.RecipeDisplay;
 import com.hci.javafx.ui.SplashScreen;
@@ -16,6 +17,13 @@ public class MainApplication extends Application {
     @Getter
     private static MainApplication instance;
     private Stage primaryStage;
+
+    public void showLogin(){
+        LoginPage lp = new LoginPage();
+        Scene scene = new Scene(lp);
+        primaryStage.setScene(scene);
+        primaryStage.show();
+    }
 
     public void showSplashScreen(){
         SplashScreen ss = new SplashScreen();
@@ -56,7 +64,7 @@ public class MainApplication extends Application {
         this.primaryStage = primaryStage;
 
         primaryStage.setTitle("DishCovery");
-        showSplashScreen();
+        showLogin();
     }
 
     public static void main(String[] args) {
