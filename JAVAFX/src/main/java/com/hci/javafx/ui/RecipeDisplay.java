@@ -89,6 +89,12 @@ public class RecipeDisplay extends VBox {
 
         titleBox.getChildren().addAll(titleLabel, prepTimeLabel, difficultyLabel);
 
+        if (recipe.isVegetarian()) {
+            Label vegetarianLabel = new Label("Vegetarian ✅");
+            vegetarianLabel.getStyleClass().add("recipe-difficulty");
+            titleBox.getChildren().addAll(vegetarianLabel);
+        }
+
         headerBox.getChildren().addAll(recipeImage, titleBox);
         this.getChildren().add(headerBox);
     }
