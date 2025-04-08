@@ -60,6 +60,7 @@ public class MainPage extends VBox {
         // Add search bar
         searchBar = new SearchBar();
         searchBar.setPadding(new Insets(15, 15, 5, 15));
+        searchBar.setOnAction(event -> performSearch());  // press Enter to search
         this.getChildren().add(searchBar);
 
         // Add filter component
