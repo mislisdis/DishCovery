@@ -332,3 +332,62 @@
     -fx-background-color: #d81b60;
     -fx-background-radius: 5;
 }
+
+/* Login Page Styles - Light Theme */
+.login-container {
+    -fx-background-color: linear-gradient(to bottom, #ffe6e6 50%, #d81b60 100%);
+}
+
+.login-title {
+    -fx-font-family: Calibri;
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-fill: #d81b60;
+}
+
+.login-form {
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.2), 5, 0, 0, 2);
+}
+
+.login-label {
+    -fx-font-family: Calibri;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2C2C2C;
+}
+
+.login-input {
+    -fx-font-family: Calibri;
+    -fx-font-size: 14px;
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 15;
+    -fx-border-radius: 15;
+    -fx-border-color: #ffccd5;
+    -fx-border-width: 1;
+    -fx-padding: 8 15;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.15), 4, 0, 0, 1);
+}
+
+.login-input:focused {
+    -fx-border-color: #d81b60;
+    -fx-border-width: 2;
+}
+
+.status-label {
+    -fx-font-family: Calibri;
+    -fx-font-size: 14px;
+    -fx-padding: 5 0;
+    -fx-text-fill: #555555;
+}
+
+.status-error {
+    -fx-text-fill: #c2185b;
+    -fx-font-weight: bold;
+}
+
+.status-success {
+    -fx-text-fill: #4caf50;
+    -fx-font-weight: bold;
+}
