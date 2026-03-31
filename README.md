@@ -24,7 +24,7 @@ Many users struggle with:
 DishCovery solves this by delivering **fast, relevant recipe suggestions using only what the user has**.
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** JavaFX
 * **Backend:** Java
@@ -88,7 +88,7 @@ JavaFX UI → Filter Engine (Java) → JSON Dataset → Filtered Results → UI 
 
 
 
-## ⭐ Why This Project Matters
+##  Why This Project Matters
 
 This project showcases:
 
